@@ -16,6 +16,6 @@
 3月31日正式提交您获得的证书。
 
 
-有问题请提issue，老师和助教将以解决issue的方式解答
+有问题请提issue(https://github.com/nkxujun/RUC-Data-Science-Course/issues)，老师和助教将以解决issue的方式解答
 
 
